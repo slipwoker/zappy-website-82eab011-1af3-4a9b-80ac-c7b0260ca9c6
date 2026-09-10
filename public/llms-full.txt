@@ -2,13 +2,13 @@
 
 Litigator is a Hebrew-language Windows desktop software built specifically for independent lawyers and small Israeli law firms (up to 5 attorneys) who practice litigation. It centralizes case management, office administration, and legal work tools — including PDF editing, remote signing, document templates, task automation, and calendar sync — into a single environment. The product was created from firsthand knowledge of daily law firm work and is sold under a one-time perpetual license model (no monthly subscription), with a 14-day full-version free trial requiring no credit card. Data is stored locally on the firm's computers, not in the cloud, and the software works offline for most tasks. The brand is new to market and needs to build trust through transparency, factual accuracy, and clear communication of its unique licensing model.
 
-Source: https://-82eab011.zappy5.app
+Source: https://example.com
 
 ---
 
 ## תוכנת ניהול משרד עורכי דין קטן — ליטיגטור
 
-URL: https://-82eab011.zappy5.app
+URL: https://example.com
 Description: ליטיגטור מאגדת ניהול תיקים, משרד ועבודה משפטית בתוכנה אחת בעברית. חתימה מרחוק, עריכת PDF ואוטומציה — ללא מנוי חודשי. נסו 14 יום בחינם.
 
 תוכנת ניהול משרד עורכי דין קטן — ליטיגטור
@@ -573,7 +573,7 @@ Description: ליטיגטור מאגדת ניהול תיקים, משרד ועב�
 
 ## כל כלי העבודה המשפטית במקום אחד — ליטיגטור
 
-URL: https://-82eab011.zappy5.app/product
+URL: https://example.com/product
 Description: גלו איך ליטיגטור מייעלת את היום-יום במשרד: ניהול תיקים חכם, תבניות מסמכים, חתימה מרחוק, סנכרון יומן ועבודה אופליין. הכול בעברית, הכול מקומי.
 
 כל כלי העבודה המשפטית במקום אחד — ליטיגטור
@@ -1161,7 +1161,7 @@ Windows 10 ואילך. התוכנה מותקנת על המחשב במשרד וא
 
 ## ראו את ליטיגטור בפעולה — צילומי מסך אמיתיים
 
-URL: https://-82eab011.zappy5.app/screenshots
+URL: https://example.com/screenshots
 Description: הציצו אל תוך הממשק של ליטיגטור: מסכי ניהול תיקים, עורך מסמכים, חתימה מרחוק ולוח שנה מסונכרן. כך נראית מערכת ניהול משרד עורכי דין קטן שעובדת.
 
 ראו את ליטיגטור בפעולה — צילומי מסך אמיתיים
@@ -1555,7 +1555,7 @@ Description: הציצו אל תוך הממשק של ליטיגטור: מסכי �
 
 ## רישיון חד-פעמי, בלי מנוי חודשי — ליטיגטור
 
-URL: https://-82eab011.zappy5.app/pricing
+URL: https://example.com/pricing
 Description: שלמו פעם אחת והשתמשו לנצח. ליטיגטור מציעה רישיון תמידי עם כל הפיצ&#39;רים כלולים — ללא תשלומים נסתרים. בדקו את המחיר שמתאים למשרד שלכם.
 
 רישיון חד-פעמי, בלי מנוי חודשי — ליטיגטור
@@ -2042,7 +2042,7 @@ Description: שלמו פעם אחת והשתמשו לנצח. ליטיגטור מ
 
 ## 14 יום מלאים בחינם, בלי כרטיס אשראי — ליטיגטור
 
-URL: https://-82eab011.zappy5.app/trial
+URL: https://example.com/trial
 Description: הורידו את הגרסה המלאה של ליטיגטור והתחילו לעבוד תוך דקות. ניהול תיקים, חתימה מרחוק ואוטומציה — 14 ימי ניסיון אמיתיים, בלי התחייבות ובלי פרטי תשלום.
 
 14 יום מלאים בחינם, בלי כרטיס אשראי — ליטיגטור
@@ -2569,7 +2569,7 @@ Description: הורידו את הגרסה המלאה של ליטיגטור וה�
 
 ## מי עומד מאחורי ליטיגטור? דברו איתנו ישירות
 
-URL: https://-82eab011.zappy5.app/about-contact
+URL: https://example.com/about-contact
 Description: ליטיגטור נבנתה מניסיון יומיומי בעבודה משפטית. אנחנו שקופים, זמינים וגאים במוצר שלנו. צרו קשר לכל שאלה על התוכנה, הרישיון או ההתקנה.
 
 מי עומד מאחורי ליטיגטור? דברו איתנו ישירות
@@ -3045,7 +3045,7 @@ Description: ליטיגטור נבנתה מניסיון יומיומי בעבו�
 
 ## מדיניות פרטיות
 
-URL: https://-82eab011.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -3296,7 +3296,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-82eab011.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3556,7 +3556,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-82eab011.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3835,7 +3835,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - ליטיגטור
 
-URL: https://-82eab011.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: ליטיגטור - תודה - ליטיגטור
 
 תודה - ליטיגטור

@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-82eab011.zappy5.app
+https://example.com
 ליטיגטור מאגדת ניהול תיקים, משרד ועבודה משפטית בתוכנה אחת בעברית. חתימה מרחוק, עריכת PDF ואוטומציה — ללא מנוי חודשי. נסו 14 יום בחינם.
 
 ### מוצר
-https://-82eab011.zappy5.app/product
+https://example.com/product
 גלו איך ליטיגטור מייעלת את היום-יום במשרד: ניהול תיקים חכם, תבניות מסמכים, חתימה מרחוק, סנכרון יומן ועבודה אופליין. הכול בעברית, הכול מקומי.
 
 ### צילומי מסך
-https://-82eab011.zappy5.app/screenshots
+https://example.com/screenshots
 הציצו אל תוך הממשק של ליטיגטור: מסכי ניהול תיקים, עורך מסמכים, חתימה מרחוק ולוח שנה מסונכרן. כך נראית מערכת ניהול משרד עורכי דין קטן שעובדת.
 
 ### מחירים
-https://-82eab011.zappy5.app/pricing
+https://example.com/pricing
 שלמו פעם אחת והשתמשו לנצח. ליטיגטור מציעה רישיון תמידי עם כל הפיצ&#39;רים כלולים — ללא תשלומים נסתרים. בדקו את המחיר שמתאים למשרד שלכם.
 
 ### ניסיון
-https://-82eab011.zappy5.app/trial
+https://example.com/trial
 הורידו את הגרסה המלאה של ליטיגטור והתחילו לעבוד תוך דקות. ניהול תיקים, חתימה מרחוק ואוטומציה — 14 ימי ניסיון אמיתיים, בלי התחייבות ובלי פרטי תשלום.
 
 ### אודות ויצירת קשר
-https://-82eab011.zappy5.app/about-contact
+https://example.com/about-contact
 ליטיגטור נבנתה מניסיון יומיומי בעבודה משפטית. אנחנו שקופים, זמינים וגאים במוצר שלנו. צרו קשר לכל שאלה על התוכנה, הרישיון או ההתקנה.
 
 ### תודה - ליטיגטור
-https://-82eab011.zappy5.app/thank-you
+https://example.com/thank-you
 ליטיגטור - תודה - ליטיגטור
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-82eab011.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-82eab011.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-82eab011.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -55,8 +55,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-82eab011.zappy5.app/about-contact
-- Endpoint: https://-82eab011.zappy5.app/api/email/contact-form
+- URL: https://example.com/about-contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -86,6 +86,6 @@ Legal Tech Software
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-82eab011.zappy5.app/sitemap.xml
-- Robots: https://-82eab011.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-82eab011.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
